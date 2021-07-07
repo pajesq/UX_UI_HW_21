@@ -1,0 +1,140 @@
+/**.logo {
+    max-width: 169.5px;
+    max-height: 154.4px;
+}**/
+
+.navbar {
+    background-color: #FFFDF8 !important;
+    font-size: larger !important;
+    color: black !important;
+    
+}
+
+.navbar-nav .nav-item {
+    background-color: #FFFDF8 !important;
+    padding: 10px !important;
+}
+
+.navbar-nav {
+    margin-top: 168px;
+}
+
+
+.dropdown-item {
+    padding: 20px !important;
+}
+
+
+.spacer {
+    margin-right: 20px !important;
+}
+
+.donateButton {
+    background-color: #FF8F42 !important;
+    color: cornsilk;
+    width: 165px;
+    height: 150px;
+    font-size: larger;
+    font-weight: bolder;
+    border-radius: 20px;
+    border-color: #FF8F42 !important;
+}
+
+.breadCrumb {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: smaller;
+    color: gray;
+    padding: 5px;
+
+}
+
+.breadCrumb li{
+    padding: 5px;
+}
+
+.activePage{
+    font-weight: bold;
+    color: black;
+}
+
+.ourStories {
+    font-family: 'Tangerine', cursive;
+    font-size: 122;
+    text-align: center;
+    color: #A5C485;
+    text-shadow: 2px 2px black;
+}
+
+.card {
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 50px;
+    min-width: 400px; 
+}
+
+.cardContainer .card {
+    border-radius: 50px !important;
+    text-align: center;
+}
+
+.cardContainer h5 {
+    text-align: center;
+    font-family: 'Tangerine', cursive;
+    font-size: 66px;
+}
+
+.cardContainer p {
+    text-align: center;
+  
+}
+
+.cardContainer a {
+    background-color: white !important;
+    color: black !important;
+    border-color: white !important;
+    font-family: serif !important;
+    font-size: smaller !important;
+    text-align: center !important;
+  
+}
+
+.cardContainer .quotes {
+    margin-left: -25px !important;
+    margin-top: -25px !important;
+    max-width: 79px !important;
+    max-height: 65px !important;
+
+}
+
+.cardContainer img {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    max-width: 233px !important;
+    max-height: 233px !important;
+
+}
+
+.footerNAV {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.access {
+    max-height: 89px;
+    max-width: 175px;
+}
+
+.navbar-brand a{
+    font-weight: bold;
+}
+
+
+@media only screen and (max-width:991px){
+
+    .navbar-nav {
+        margin-top: 0px;
+    }
+    
+}
