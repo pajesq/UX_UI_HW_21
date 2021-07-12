@@ -16,7 +16,11 @@
 }
 
 .navbar-nav {
-    margin-top: 168px;
+    margin-top: 140px;
+}
+
+#textcolor{
+    color: black !important;
 }
 
 
@@ -29,15 +33,21 @@
     margin-right: 20px !important;
 }
 
+.logo {
+    max-width: 200px;
+    max-height: 200px;
+}
+
 .donateButton {
     background-color: #FF8F42 !important;
     color: cornsilk;
-    width: 165px;
-    height: 150px;
+    width: 500px;
+    height: 100px;
     font-size: larger;
     font-weight: bolder;
     border-radius: 20px;
     border-color: #FF8F42 !important;
+
 }
 
 .breadCrumb {
